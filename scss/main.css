@@ -1,0 +1,46 @@
+.contenido_perfil {
+  margin-bottom: 40px;
+}
+
+.perfil_nombre {
+  font-family: 'El Messiri', sans-serif;
+  text-align: center;
+  color: #40E0D0;
+}
+
+.row_biografia .flip-card .front .h_biografia {
+  font-family: 'El Messiri', sans-serif;
+  text-align: center;
+  color: #40E0D0;
+}
+
+.h_skills {
+  font-family: 'El Messiri', sans-serif;
+  text-align: center;
+  color: #40E0D0;
+}
+
+.skills {
+  font-weight: bold;
+  color: #c99806;
+  font-style: normal;
+  font-size: x-large;
+}
+
+.skill {
+  font-weight: bold;
+  color: #c99806;
+  font-style: normal;
+  font-size: x-large;
+}
+
+.informacion_skills .colum_skills .row_skills .cell_skill {
+  margin: 50px;
+}
+
+.h_Proyects {
+  font-family: 'El Messiri', sans-serif;
+  text-align: center;
+  color: #40E0D0;
+}
+/*# sourceMappingURL=main.css.map */

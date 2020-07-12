@@ -1,0 +1,79 @@
+.contenido_perfil{
+    margin-bottom: 40px;
+}
+.perfil_nombre{
+    font-family: 'El Messiri', sans-serif;
+    text-align: center;
+    color:#40E0D0;
+}
+.row_biografia{
+    .flip-card{
+        .front{
+        .h_biografia{
+            font-family: 'El Messiri', sans-serif;
+            text-align: center;
+            color:#40E0D0;
+        }
+    } 
+}
+}
+.fotoperfil{
+    width: 50px; height: 600px;
+}
+.h_skills{
+    font-family: 'El Messiri', sans-serif;
+    text-align: center;
+    color:	#2F4F4F;
+}
+
+ .skills{
+      font-weight: bold;
+      color:whitesmoke;
+      font-size: x-large;
+      font-style: normal;
+      font-family: 'El Messiri', sans-serif;
+ } 
+
+                            
+.skill{
+    font-weight: bold;
+    color: whitesmoke;
+    font-size: x-large;
+    font-style: normal;
+    font-family: 'El Messiri', sans-serif;
+}
+.informacion_skills .colum_skills .row_skills .cell_skill {
+    margin:50px;
+
+}
+                
+
+.h_Proyects{
+    font-family: 'El Messiri', sans-serif;
+    text-align: center;
+    color:#40E0D0;
+}
+
+.contenido_perfil{
+    .row_informacion{
+        .celda_perfil .informacion{
+            color:white;
+            margin: 7px;
+            font-family: 'El Messiri', sans-serif;
+        }
+
+    }
+}
+.back{
+    color: white;
+}
+
+
+body{
+    margin-top: 40px;
+    background: #1f4037;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #99f2c8, #1f4037);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #99f2c8, #1f4037); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+
